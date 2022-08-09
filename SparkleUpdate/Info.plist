@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUFeedURL</key>
+	<string>file:///Users/kaz/work/Peter/FPPrototypes/SparkleUpdate/downloads/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>wQ2fDBlvkVDIRUzIg7Gx6N7A2JkO8Y5Llq2HuYTR39w=</string>
+</dict>
+</plist>
