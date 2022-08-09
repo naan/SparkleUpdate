@@ -8,7 +8,10 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate.app.zip" length="1313568" type="application/octet-stream" sparkle:edSignature="4nGjwlI2J2WRI72IeyRzRLe9zJTUDhSg0GDaBSmW05a7urXZtILIyyOgG4yLSrauu8AS1Xxjpzwj74tjE6iUAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-4.app.zip" length="1313568" type="application/octet-stream" sparkle:edSignature="4nGjwlI2J2WRI72IeyRzRLe9zJTUDhSg0GDaBSmW05a7urXZtILIyyOgG4yLSrauu8AS1Xxjpzwj74tjE6iUAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate4-3.delta" sparkle:deltaFrom="3" length="8882" type="application/octet-stream" sparkle:edSignature="COqofsWE96dukbNraGnGJBW3JcvI7YWGJe9/CvvqoVLR7CFwQQnFs6atRtLGRFrnaJvl77pQ7rVLDBI518/WCw=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
@@ -16,7 +19,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="file:///Users/kaz/work/Peter/FPPrototypes/SparkleUpdate/archives/SparkleUpdate-3.app.zip" length="1292624" type="application/octet-stream" sparkle:edSignature="TKF/JO4v12lmRYjCL4bLt/85U8+ZuDPGFFoGIENGKvuT+KIAB4FhTKlYTCQ4UoFx2jnKKeEZx+WZ6ivj1SQvBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-3.app.zip" length="1313591" type="application/octet-stream" sparkle:edSignature="gPcm5WNDtSC7GhPWcN3sk9pBvXwPPwtdeCEErxv6aROg4ZCx5xysbvbwou/UPOTq2qFvEfgBYSjzY6pztQQnDw=="/>
         </item>
     </channel>
 </rss>
