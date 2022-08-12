@@ -10,8 +10,10 @@
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-1.1-5.app.zip" length="1292666" type="application/octet-stream" sparkle:edSignature="hrK+9AuMKpAH+qOg2tznTm03Y0XAaT83vxGmwJwbMDpiymORNyslw/8OzySuQ2+igeWYUsFO55++XmzQ8nuICw=="/>
             <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate5-3.delta" sparkle:deltaFrom="3" length="16410" type="application/octet-stream" sparkle:edSignature="qswiNHerVlsKA923skzFD9KOMxKwoPD4EMs8z+dn/Kitf6B31w2WiuWeNBKDeclLcmZqaGzxrVp5TykcGuJBDg=="/>
                 <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate5-4.delta" sparkle:deltaFrom="4" length="15746" type="application/octet-stream" sparkle:edSignature="1RGvmb8VI62OYWcBJsa56F/fBNXZbnAxqgQcJAvkcvtRZeM4Be9ibUAfsqyAndE+NLub7V90V3ngFD7jR/A7Bw=="/>
             </sparkle:deltas>
+            <description><![CDATA[<h1>New Version!!!</h1> ]]></description>
         </item>
         <item>
             <title>1.0</title>
