@@ -3,23 +3,12 @@
     <channel>
         <title>SparkleUpdate</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Tue, 09 Aug 2022 10:33:56 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Fri, 12 Aug 2022 15:52:24 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-4.app.zip" length="1313568" type="application/octet-stream" sparkle:edSignature="4nGjwlI2J2WRI72IeyRzRLe9zJTUDhSg0GDaBSmW05a7urXZtILIyyOgG4yLSrauu8AS1Xxjpzwj74tjE6iUAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate4-3.delta" sparkle:deltaFrom="3" length="8882" type="application/octet-stream" sparkle:edSignature="COqofsWE96dukbNraGnGJBW3JcvI7YWGJe9/CvvqoVLR7CFwQQnFs6atRtLGRFrnaJvl77pQ7rVLDBI518/WCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 08 Aug 2022 14:20:54 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-3.app.zip" length="1313591" type="application/octet-stream" sparkle:edSignature="gPcm5WNDtSC7GhPWcN3sk9pBvXwPPwtdeCEErxv6aROg4ZCx5xysbvbwou/UPOTq2qFvEfgBYSjzY6pztQQnDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-1.1-5.app.zip" length="1292666" type="application/octet-stream" sparkle:edSignature="hrK+9AuMKpAH+qOg2tznTm03Y0XAaT83vxGmwJwbMDpiymORNyslw/8OzySuQ2+igeWYUsFO55++XmzQ8nuICw=="/>
         </item>
     </channel>
 </rss>
