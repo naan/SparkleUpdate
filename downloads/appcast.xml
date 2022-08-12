@@ -9,6 +9,25 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-1.1-5.app.zip" length="1292666" type="application/octet-stream" sparkle:edSignature="hrK+9AuMKpAH+qOg2tznTm03Y0XAaT83vxGmwJwbMDpiymORNyslw/8OzySuQ2+igeWYUsFO55++XmzQ8nuICw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate5-4.delta" sparkle:deltaFrom="4" length="15746" type="application/octet-stream" sparkle:edSignature="1RGvmb8VI62OYWcBJsa56F/fBNXZbnAxqgQcJAvkcvtRZeM4Be9ibUAfsqyAndE+NLub7V90V3ngFD7jR/A7Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 12 Aug 2022 16:01:51 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-4.app.zip" length="1313568" type="application/octet-stream" sparkle:edSignature="4nGjwlI2J2WRI72IeyRzRLe9zJTUDhSg0GDaBSmW05a7urXZtILIyyOgG4yLSrauu8AS1Xxjpzwj74tjE6iUAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 12 Aug 2022 16:01:51 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/naan/SparkleUpdate/main/downloads/SparkleUpdate-3.app.zip" length="1313591" type="application/octet-stream" sparkle:edSignature="gPcm5WNDtSC7GhPWcN3sk9pBvXwPPwtdeCEErxv6aROg4ZCx5xysbvbwou/UPOTq2qFvEfgBYSjzY6pztQQnDw=="/>
         </item>
     </channel>
 </rss>
